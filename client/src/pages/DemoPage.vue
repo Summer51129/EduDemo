@@ -1,8 +1,4 @@
 <template>
-  {{ employees }}
-  {{ 123 }}
-  <router-link to="/">Home</router-link>
-
   <div class="q-pa-xl">
     <div class="row q-col-gutter-xs">
       <div class="col-12 col-md-2">
